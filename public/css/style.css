@@ -1,0 +1,15 @@
+.bg-light
+{
+    background-color: #e52a30 !important;
+}
+
+.ime{
+    font-family: "Arial";
+    color: #333333;
+    font-size: 14px;
+}
+.pozicija{
+    font-family: "Arial";
+    color: #e50200;
+    font-size: 11px;
+}
