@@ -6,7 +6,7 @@
 
 <div class="row justify-content-md-center">
     <div class="col-4">
-        <form method="post" action="resources\views\potpisi\potpis.php">
+        <form method="post" action="\eestec-email-helper\products\potpis.php">
             <div class="form-group">
                 <label for="name">Ime i prezime</label>
                 <input type="text" class="form-control" id="name" name='name'>
